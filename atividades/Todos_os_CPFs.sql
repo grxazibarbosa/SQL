@@ -1,0 +1,1 @@
+select cpf from funcionario;
