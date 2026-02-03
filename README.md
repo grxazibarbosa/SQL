@@ -1,7 +1,7 @@
-Atividades realizadas pelo Moodle durante a disciplina de Fundamento de Banco de Dados
+Atividades realizadas pelo Moodle durante a disciplina de **Fundamento de Banco de Dados**:
 
--> consulta com filtragem
--> consulta com múltiplas tabelas
--> junção de tabelas
--> agrupamento e ordenação
--> sub consultas 
+- Consulta com filtragem  
+- Consulta com múltiplas tabelas  
+- Junção de tabelas  
+- Agrupamento e ordenação  
+- Subconsultas
